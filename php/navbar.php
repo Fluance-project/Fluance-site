@@ -14,7 +14,7 @@
                                     <li class="info-item">
                                         <a href="tel:01228899900" class="info-link">
                                             <i class="info-icon fa fa-phone"></i>
-                                            <span class="info-text"><strong>+33 1 39 55 46 45</strong></span>
+                                            <span class="info-text"><strong>+33 6 42 31 83 95</strong></span>
                                         </a>
                                     </li>
                                     <li class="info-item">
@@ -47,19 +47,9 @@
                                 <div class="header__navigation menu-style-three d-none d-xl-block">
                                     <nav class="navigation-menu">
                                         <ul>
+                                            
                                             <li class="has-children has-children--multilevel-submenu">
-                                                <a href="#"><span>Home</span></a>
-                                                <ul class="submenu">
-                                                    <li><a href="index-infotechno.html"><span>Infotechno</span></a></li>
-                                                    <li><a href="index-processing.html"><span>Processing</span></a></li>
-                                                    <li><a href="index-appointment.html"><span>Appointment</span></a></li>
-                                                    <li><a href="index-services.html"><span>Services</span></a></li>
-                                                    <li><a href="index-resolutions.html"><span>Resolutions</span></a></li>
-                                                    <li><a href="index-cybersecurity.html"><span>Cybersecurity</span></a></li>
-                                                </ul>
-                                            </li>
-                                            <li class="has-children has-children--multilevel-submenu">
-                                                <a href="#"><span>Company</span></a>
+                                                <a href="#"><span>La solution</span></a>
                                                 <ul class="submenu">
                                                     <li class="has-children">
                                                         <a href="about-us-01.html"><span>About us</span></a>
@@ -76,27 +66,12 @@
                                                             </li>
                                                         </ul>
                                                     </li>
-                                                    <li><a href="contact-us.html"><span>Contact us</span></a></li>
-                                                    <li><a href="leadership.html"><span>Leadership</span></a></li>
-                                                    <li><a href="why-choose-us.html"><span>Why choose us</span></a></li>
-                                                    <li><a href="our-history.html"><span>Our history</span></a></li>
-                                                    <li><a href="faqs.html"><span>FAQs</span></a></li>
-                                                    <li><a href="careers.html"><span>Careers</span></a></li>
-                                                    <li><a href="pricing-plans.html"><span>Pricing plans</span></a></li>
+                                                    <li><a href="contact-us.html"><span>Espace client</span></a></li>
                                                 </ul>
                                             </li>
-                                            <li class="has-children has-children--multilevel-submenu">
-                                                <a href="#"><span>IT solutions</span></a>
-                                                <ul class="submenu">
-                                                    <li><a href="it-services.html"><span>IT Services</span></a></li>
-                                                    <li><a href="managed-it-services.html"><span>Managed IT Services</span></a></li>
-                                                    <li><a href="industries.html"><span>Industries</span></a></li>
-                                                    <li><a href="business-solution.html"><span>Business solution</span></a></li>
-                                                    <li><a href="it-services-details.html"><span>IT Services Details</span></a></li>
-                                                </ul>
-                                            </li>
+                                          
                                             <li class="has-children">
-                                                <a href="#"><span>Elements</span></a>
+                                                <a href="#"><span>Tarifs</span></a>
                                                 <!-- mega menu -->
                                                 <ul class="megamenu megamenu--mega">
                                                     <li>
@@ -150,7 +125,7 @@
                                                 </ul>
                                             </li>
                                             <li class="has-children has-children--multilevel-submenu">
-                                                <a href="#"><span>Case Studies</span></a>
+                                                <a href="#"><span>FAQ</span></a>
                                                 <!-- multilevel submenu -->
                                                 <ul class="submenu">
                                                     <li><a href="case-studies.html"><span>Case Studies 01</span></a></li>
@@ -176,19 +151,15 @@
                                                     </li>
                                                 </ul>
                                             </li>
+                                            <li class="" class="ht-btn ht-btn-md ht-btn--outline">
+                                                <a href="#"><span>Connexion</span></a>
+                                                
+                                            </li>
                                         </ul>
                                     </nav>
                                 </div>
 
-                                <div class="header-search-form-two">
-                                    <form action="#" class="search-form-top-active">
-                                        <div class="search-icon" id="search-overlay-trigger">
-                                            <a href="javascript:void(0)">
-                                                <i class="fa fa-search"></i>
-                                            </a>
-                                        </div>
-                                    </form>
-                                </div>
+                              
 
                                 <!-- mobile menu -->
                                 <div class="mobile-navigation-icon d-block d-xl-none" id="mobile-menu-trigger">

@@ -8,11 +8,11 @@
                     <!--baseline-->
                     <div class="col-lg-8 col-md-7">
                         <div class="processing-hero-text wow move-up">
-                            <h6>Fluance, GMAO intelligente</h6>
-                            <h1 class="font-weight--reguler mb-15">La maintenance en équipe simplifiée</h1>
-                            <p>Fluance facilite la maintenance prévisionnelle pour les petites équipes et les industries fléxibles en automatisant et centralisant le registre de maintenance</p>
+                            <h6>Fluance</h6>
+                            <h1 class="font-weight--reguler mb-15">La maintenance en équipe <span class="text-color-secondary">simplifiée</span></h1>
+                            <p>Fluance facilite la maintenance prévisionnelle pour les petites équipes et les industries en automatisant et centralisant le registre de maintenance sous un format flexibles</p>
                             <div class="hero-button mt-30">
-                                <a href="#" class="btn btn--white">Essayer l'application</a>
+                                <a href="#" class="btn btn--white">Essayer l'outil</a>
                                 <div class="hero-popup-video video-popup">
                                     <a href="https://www.youtube.com/watch?v=vqZuSUtczbU" class="video-link">
                                         <div class="video-content">
@@ -47,8 +47,8 @@
                         <div class="faq-wrapper faq-custom-col">
 
                             <div class="section-title section-space--mb_40">
-                                <h6 class="section-sub-title mb-20">Our company</h6>
-                                <h3 class="heading">Share the joy of achieving <span class="text-color-primary"> glorious moments</span> & climbed up the top.</h3>
+                                <h6 class="section-sub-title mb-20">Qu'est-ce que Fluance</h6>
+                                <h3 class="heading">Gérer la maintenance de votre parc<span class="text-color-primary"> facilitement</span> et en équipe</h3>
 
                             </div>
 
@@ -57,7 +57,7 @@
                                     <div class="card-header" id="headingOne">
                                         <h5 class="mb-0">
                                             <button class="btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                                How can we help your business? <span> <i class="fas fa-chevron-down"></i>
+                                            Simplifiez la gestion de votre maintenance <span> <i class="fas fa-chevron-down"></i>
                                             <i class="fas fa-chevron-up"></i> </span>
                                             </button>
                                         </h5>
@@ -65,7 +65,7 @@
 
                                     <div id="collapseOne" class="show" aria-labelledby="headingOne" data-parent="#accordion">
                                         <div class="card-body">
-                                            <p>Through the collaboration with customers in discussing needs and demand, we're able to attain mutual understanding, gain customer trust to offer appropriate advice, and bring about suggestions on suitable technology to transform your business. </p>
+                                            <p>Fluance est une solution intelligente de gestion de maintenance assistée par ordinateur (GMAO). Elle vous permet de surveiller en temps réels vos actifs et centraliser sans complexité l'organisation de la maintenance. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -73,14 +73,14 @@
                                     <div class="card-header" id="headingTwo">
                                         <h5 class="mb-0">
                                             <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                What are the advantages of Mitech?<span> <i class="fas fa-chevron-down"></i>
+                                                Gérez les tâches en équipe<span> <i class="fas fa-chevron-down"></i>
                                             <i class="fas fa-chevron-up"></i> </span>
                                             </button>
                                         </h5>
                                     </div>
                                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
                                         <div class="card-body">
-                                            <p>Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls. </p>
+                                            <p>Communiquez, partagez et organisez votre maintenance en équipe grâce à ses fonctions collaboratives. Créez des profils pour vos employés et sachez qui fait quoi et quand.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -88,14 +88,14 @@
                                     <div class="card-header" id="headingThree">
                                         <h5 class="mb-0">
                                             <button class="btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                How working process is simplified? <span> <i class="fas fa-chevron-down"></i>
+                                            Améliorez votre prise de décision <span> <i class="fas fa-chevron-down"></i>
                                             <i class="fas fa-chevron-up"></i> </span>
                                             </button>
                                         </h5>
                                     </div>
                                     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                         <div class="card-body">
-                                            <p>We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers. </p>
+                                            <p>Fluance analyse automatiquement vos points faibles pour comprendre où s'améliorer et les restitue sous forme de tableau de bord. Fluance développe aussi des modules prédictifs à connecter à la solution qui vous permettent d'entrer dans l'ère du prédictif à sans changer d'équipements. </p>
                                         </div>
                                     </div>
                                 </div>
@@ -108,17 +108,17 @@
                         <div class="rv-video-section">
 
                             <div class="ht-banner-01 ">
-                                <img class="img-fluid border-radus-5 animation_images one wow fadeInDown" src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-02.jpg" alt="">
+                                <img class="img-fluid border-radus-5 animation_images one wow fadeInDown" src="<?php echo DOMAIN_THEME_IMG.'Group 130.png'?>" alt="">
                             </div>
 
                             <div class="ht-banner-02">
-                                <img class="img-fluid border-radus-5 animation_images two wow fadeInDown" src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-03.jpg" alt="">
+                                <img class="img-fluid border-radus-5 animation_images two wow fadeInDown" src="<?php echo DOMAIN_THEME_IMG.'Group 132.png'?>" alt="">
                             </div>
 
                             <div class="main-video-box video-popup">
                                 <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="video-link  mt-30">
                                     <div class="single-popup-wrap">
-                                        <img class="img-fluid border-radus-5" src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-01.jpg" alt="">
+                                        <img class="img-fluid border-radus-5" src="<?php echo DOMAIN_THEME_IMG.'Group 129.png'?>" alt="">
                                         <div class="ht-popup-video video-button">
                                             <div class="video-mark">
                                                 <div class="wave-pulse wave-pulse-1"></div>
@@ -136,11 +136,11 @@
 
 
                             <div class="ht-banner-03">
-                                <img class="img-fluid border-radus-5 animation_images three wow fadeInDown" src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-04.jpg" alt="">
+                                <img class="img-fluid border-radus-5 animation_images three wow fadeInDown" src="<?php echo DOMAIN_THEME_IMG.'Group 133.png'?>" alt="">
                             </div>
 
                             <div class="ht-banner-04">
-                                <img class="img-fluid border-radus-5 animation_images four wow fadeInDown" src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-05.jpg" alt="">
+                                <img class="img-fluid border-radus-5 animation_images four wow fadeInDown" src="<?php echo DOMAIN_THEME_IMG.'Group 131.png'?>" alt="">
                             </div>
 
 
@@ -162,8 +162,8 @@
                     <div class="col-lg-12">
                         <!-- section-title-wrap Start -->
                         <div class="section-title-wrap text-center section-space--mb_10">
-                            <h6 class="section-sub-title mb-20">Our services</h6>
-                            <h3 class="heading">For your very specific industry, <br> we have <span class="text-color-primary"> highly-tailored IT solutions.</span></h3>
+                            <h6 class="section-sub-title mb-20">Les fonctionnalités</h6>
+                            <h3 class="heading">Pour vos besoins très spécifiques, <br> nous avons une solution<span class="text-color-primary"> fléxible.</span></h3>
                         </div>
                         <!-- section-title-wrap Start -->
                     </div>
@@ -179,10 +179,10 @@
                                     <a href="#" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/images/icons/mitech-processing-service-image-01-80x83.png" alt="">
+                                                <img class="img-fulid" src="<?php echo DOMAIN_THEME_IMG.'cal.png'?>" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Backup and recovery </h6>
+                                                <h6 class="heading">Plannification et prévision</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -194,10 +194,10 @@
                                     <a href="#" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/images/icons/mitech-processing-service-image-02-80x83.png" alt="">
+                                                <img class="img-fulid" src="<?php echo DOMAIN_THEME_IMG.'usr.png'?>" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Cloud Managed Services</h6>
+                                                <h6 class="heading">Saisie et répartition des interventions</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -209,10 +209,10 @@
                                     <a href="#" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/images/icons/mitech-processing-service-image-03-80x83.png" alt="">
+                                                <img class="img-fulid" src="<?php echo DOMAIN_THEME_IMG.'mach.png'?>" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">IT Security & Compliance</h6>
+                                                <h6 class="heading">Suivi des machines et supervision</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -224,10 +224,10 @@
                                     <a href="#" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/images/icons/mitech-processing-service-image-04-80x83.png" alt="">
+                                                <img class="img-fulid" src="<?php echo DOMAIN_THEME_IMG.'idee.png'?>" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Software Development</h6>
+                                                <h6 class="heading">Alertes automatiques et IOT</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -239,10 +239,10 @@
                                     <a href="#" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/images/icons/mitech-processing-service-image-05-80x83.png" alt="">
+                                                <img class="img-fulid" src="<?php echo DOMAIN_THEME_IMG.'perf.png'?>" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Managed IT Services</h6>
+                                                <h6 class="heading">Analyse de performance et statistiques</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -254,10 +254,10 @@
                                     <a href="#" class="ht-box-images style-02">
                                         <div class="image-box-wrap">
                                             <div class="box-image">
-                                                <img class="img-fulid" src="assets/images/icons/mitech-processing-service-image-06-80x83.png" alt="">
+                                                <img class="img-fulid" src="<?php echo DOMAIN_THEME_IMG.'hist.png'?>" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">IT consultancy</h6>
+                                                <h6 class="heading">Historique des maintenances</h6>
                                             </div>
                                         </div>
                                     </a>
@@ -267,7 +267,7 @@
                             </div>
                         </div>
 
-                        <div class="section-under-heading text-center section-space--mt_60">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                        <div class="section-under-heading text-center section-space--mt_60">Fluance facilite le quotidien de vos équipes. <a href="#">Découvrez la solution</a></div>
 
                     </div>
                 </div>
@@ -284,34 +284,34 @@
                 <div class="row">
                     <div class="col-lg-4 offset-lg-1">
                         <div class="modern-number-01 mr-5">
-                            <h2 class="heading"><span class="mark-text">38</span>Years’ Experience in IT</h2>
-                            <h3 class="heading">Learn more about our <span class="text-color-primary">Success Stories</span></h3>
+                            <h2 class="heading"><span class="mark-text">20</span>% de gain de productivité</h2>
+                            <h3 class="heading">Optimisez votre usine, <span class="text-color-primary">ça se mesure</span></h3>
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-8">
                         <div class="row">
                             <div class="col-md-6 col-sm-6 wow move-up">
                                 <div class="fun-fact--three text-center">
-                                    <div class="fun-fact__count counter">1790</div>
-                                    <h6 class="fun-fact__text">Account numbers</h6>
+                                    <div class="fun-fact__count counter">30</div>
+                                    <h6 class="fun-fact__text">% supplémentaires de temps entre les maintenances</h6>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6 wow move-up">
                                 <div class="fun-fact--three text-center">
-                                    <div class="fun-fact__count counter">32</div>
-                                    <h6 class="fun-fact__text">Finished projects</h6>
+                                    <div class="fun-fact__count counter">15</div>
+                                    <h6 class="fun-fact__text">% supplémentaires de durée des machines</h6>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6 wow move-up">
                                 <div class="fun-fact--three text-center">
-                                    <div class="fun-fact__count counter">73</div>
-                                    <h6 class="fun-fact__text">Happy clients</h6>
+                                    <div class="fun-fact__count counter">20</div>
+                                    <h6 class="fun-fact__text">% de disponibilité en plus</h6>
                                 </div>
                             </div>
                             <div class="col-md-6 col-sm-6 wow move-up">
                                 <div class="fun-fact--three text-center">
-                                    <div class="fun-fact__count counter">318</div>
-                                    <h6 class="fun-fact__text">Blog posts</h6>
+                                    <div class="fun-fact__count counter">0</div>
+                                    <h6 class="fun-fact__text">contraintes</h6>
                                 </div>
                             </div>
                         </div>
@@ -325,22 +325,22 @@
 
 
 
-        <!--=========== Computing Start ===============-->
+        <!--=========== Computing Start ===============-
 
         <div class="processing-computing-area bg-gray-3">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="computing-info-box text-center">
-                            <h2>IT Security & Computing</h2>
-                            <div class="section-under-heading text-center mt-30">Challenges are just opportunities in disguise. <a href="#">Take the challenge!</a></div>
+                            <h2>Maintenance</h2>
+                            <div class="section-under-heading text-center mt-30">Fluance facilite le quotidien de vos équipes. <a href="#">Découvrez la solution</a></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <!--=========== Computing End ===============-->
+        =========== Computing End ===============-->
 
 
         <!--===========  feature-large-images-wrapper  Start =============-->
@@ -351,8 +351,8 @@
                     <div class="col-lg-12">
                         <!-- section-title-wrap Start -->
                         <div class="section-title-wrap text-center section-space--mb_30">
-                            <h6 class="section-sub-title mb-20">Optimal Technology Solutions</h6>
-                            <h3 class="heading">Preparing for your success, <br> we provide <span class="text-color-primary">truly prominent IT solutions.</span></h3>
+                            <h6 class="section-sub-title mb-20">Cas d'usage</h6>
+                            <h3 class="heading">Une solution flexible pour<br>  <span class="text-color-primary">de multiples usages</span></h3>
                         </div>
                         <!-- section-title-wrap Start -->
                     </div>
@@ -367,13 +367,13 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-01.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="https://edito.regionsjob.com/xjob/wp-content/uploads/sites/3/2015/07/m%C3%A9tallier.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">IT Design</h5>
+                                            <h5 class="heading">Métallurgie</h5>
                                             <div class="box-more-info">
-                                                <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
+                                                <div class="text">Ligne de sciage de tubes aluminiums avec mise en chariot automatique, ebavurage, commandes numériques, une technicité à suivre de près.</div>
                                                 <div class="btn">
                                                     <i class="button-icon far fa-long-arrow-right"></i>
                                                 </div>
@@ -389,13 +389,13 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-02.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="https://www.orci-occitanie.fr/wp-content/uploads/2020/03/plasturgie-mob.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">IT Management</h5>
+                                            <h5 class="heading">Plasturgie et composites</h5>
                                             <div class="box-more-info">
-                                                <div class="text">It’s possible to simultaneously manage and transform key information from one server to another.</div>
+                                                <div class="text">Les presses industrielles horizontales ouverticales du domaines de la plasturgie demandent un entretien régulier assuré par vos équipes. Donnez leur les moyens d'être opérationnels.</div>
                                                 <div class="btn">
                                                     <i class="button-icon far fa-long-arrow-right"></i>
                                                 </div>
@@ -411,13 +411,13 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-03.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="https://www.usinenouvelle.com/mediatheque/0/5/5/000259550_image_896x598/lacroix-electronics-assemblage7002086761636498280.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">Data Security</h5>
+                                            <h5 class="heading">Électronique</h5>
                                             <div class="box-more-info">
-                                                <div class="text">Back up your database, store in a safe and secure place while still maintaining its accessibility.</div>
+                                                <div class="text">Pour les TPE-PME sous-traitants de l'éléctonique professionelle, habitués à des hauts standards de qualité et de fiabilité, le suivi est primordial.</div>
                                                 <div class="btn">
                                                     <i class="button-icon far fa-long-arrow-right"></i>
                                                 </div>
@@ -433,13 +433,13 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/home-processing-software-image-04.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="https://boulangerie-bakery.com/wp-content/uploads/2020/02/D%C3%A9lifrance-1140x761.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">Business Reform</h5>
+                                            <h5 class="heading">Industries agroalimentaire</h5>
                                             <div class="box-more-info">
-                                                <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
+                                                <div class="text">Sous-traitants dans l'alimentaire, la spécificité des équipements et le caractère vivant des ressources sont des contraites à suivre de près avec un outil adapté.</div>
                                                 <div class="btn">
                                                     <i class="button-icon far fa-long-arrow-right"></i>
                                                 </div>
@@ -455,13 +455,13 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/mitech-home-infotechno-box-large-image_02-330x330.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="https://static.lexpress.fr/medias_10127/w_480,h_270,c_fill,g_north/v1425054634/des-employes-dans-l-imprimerie-du-quotidien-belge-le-soir-a-bruxelles-le-24-janvier-2013_5185269.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">Infrastructure Plan</h5>
+                                            <h5 class="heading">Bois, papier, imprimerie</h5>
                                             <div class="box-more-info">
-                                                <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
+                                                <div class="text">L'automatisation et l'entretien de machines qui tournent sans interruption necessitent autant de rigueur dans le suivi des interventions. </div>
                                                 <div class="btn">
                                                     <i class="button-icon far fa-long-arrow-right"></i>
                                                 </div>
@@ -477,13 +477,13 @@
                                 <a href="#" class="box-large-image__two">
                                     <div class="box-large-image__two__box">
                                         <div class="box-large-image__midea">
-                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="assets/images/box-image/mitech-home-infotechno-box-large-image_04-330x330.jpg"></div>
+                                            <div class="single-gallery__thum bg-item-images bg-img" data-bg="https://www.orientation-pour-tous.fr/IMG/jpg/chimie_3_214256035.jpg"></div>
                                         </div>
 
                                         <div class="box-info">
-                                            <h5 class="heading">Firewall Advancement</h5>
+                                            <h5 class="heading">Industrie chimique</h5>
                                             <div class="box-more-info">
-                                                <div class="text">We provide the most responsive and functional IT design for companies and businesses worldwide.</div>
+                                                <div class="text">La complexité des procédés et les nombreuses interventions humaines necessitent un suivi normalisé et prévoyant pour limiter les risques.</div>
                                                 <div class="btn">
                                                     <i class="button-icon far fa-long-arrow-right"></i>
                                                 </div>
@@ -497,8 +497,8 @@
                         </div>
                         <div class="col-lg-12">
                             <div class="feature-list-button-box mt-40 text-center">
-                                <a href="#" class="ht-btn ht-btn-md">Learn more</a>
-                                <a href="#" class="ht-btn ht-btn-md ht-btn--outline">Contact us</a>
+                                <a href="#" class="ht-btn ht-btn-md">Voir nos cas d'usage</a>
+                                <a href="#" class="ht-btn ht-btn-md ht-btn--outline">Nous contacter</a>
                             </div>
                         </div>
 
@@ -508,14 +508,14 @@
         </div>
         <!--===========  feature-large-images-wrapper  End =============-->
 
-        <!--====================  testimonial section ====================-->
+        <!--====================  testimonial section ====================-
         <div class="testimonial-slider-area bg-gray section-space--ptb_100">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="section-title-wrap text-center section-space--mb_40">
-                            <h6 class="section-sub-title mb-20">Testimonials</h6>
-                            <h3 class="heading">What do people praise about <span class="text-color-primary"> Mitech?</span></h3>
+                            <h6 class="section-sub-title mb-20">Ils nous font confiance</h6>
+                            <h3 class="heading">Ils ont choisi <span class="text-color-primary"> fluance</span> pour moderniser leur GMAO</h3>
                         </div>
                         <div class="testimonial-slider">
                             <div class="swiper-container testimonial-slider__container">
@@ -529,16 +529,10 @@
                                                 </div>
 
                                                 <div class="testimonial-slider__author">
-                                                    <div class="testimonial-rating">
-                                                        <span class="fa fa-star"></span>
-                                                        <span class="fa fa-star"></span>
-                                                        <span class="fa fa-star"></span>
-                                                        <span class="fa fa-star"></span>
-                                                        <span class="fa fa-star"></span>
-                                                    </div>
+                                                   
                                                     <div class="author-info">
-                                                        <h6 class="name">Abbie Ferguson</h6>
-                                                        <span class="designation">Marketing</span>
+                                                        <h6 class="name">V. Aubry</h6>
+                                                        <span class="designation">Président Directeur Général, AFPI</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -556,16 +550,10 @@
                                                 </div>
 
                                                 <div class="testimonial-slider__author">
-                                                    <div class="testimonial-rating">
-                                                        <span class="fa fa-star"></span>
-                                                        <span class="fa fa-star"></span>
-                                                        <span class="fa fa-star"></span>
-                                                        <span class="fa fa-star"></span>
-                                                        <span class="fa fa-star"></span>
-                                                    </div>
+                                                   
                                                     <div class="author-info">
-                                                        <h6 class="name">Monica Blews</h6>
-                                                        <span class="designation">Web designer</span>
+                                                        <h6 class="name">P. Feyd</h6>
+                                                        <span class="designation">Directeur de maintenance, ACP-PLV</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -636,7 +624,7 @@
                 </div>
             </div>
         </div>
-        <!--====================  End of testimonial section  ====================-->
+        ====================  End of testimonial section  ====================-->
 
         <!--====================  brand logo slider area ====================-->
         <div class="brand-logo-slider-area section-space--ptb_60">
@@ -752,9 +740,9 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-lg-6">
                         <div class="conact-us-wrap-one">
-                            <h3 class="heading text-white">Obtaining further information by make a contact with our experienced IT staffs. </h3>
+                            <h3 class="heading text-white">Obtenez plus d'informations auprès de notre équipe</h3>
 
-                            <div class="sub-heading text-white">We’re available for 8 hours a day!<br>Contact to require a detailed analysis and assessment of your plan.</div>
+                            <div class="sub-heading text-white">Obtenez une demonstration de la solution gratuitement</div>
 
                             </div>
                         </div>
@@ -764,10 +752,10 @@
                                 <div class="icon">
                                     <span class="fal fa-phone"></span>
                                 </div>
-                                <h6 class="heading font-weight--reguler">Reach out now!</h6>
-                                <h2 class="call-us"><a href="tel:190068668">1900 68668</a></h2>
+                                <h6 class="heading font-weight--reguler">Lun/Ven - 9h/18h</h6>
+                                <h2 class="call-us"><a href="tel:190068668" class="text-color-secondary">(+33)6 42 31 83 95</a></h2>
                                 <div class="contact-us-button mt-20">
-                                    <a href="#" class="btn btn--secondary">Contact us</a>
+                                    <a href="#" class="btn btn--secondary">Contactez-nous</a>
                                 </div>
                             </div>
                         </div>
