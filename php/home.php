@@ -12,7 +12,7 @@
                             <h1 class="font-weight--reguler mb-15">La maintenance en équipe <span class="text-color-secondary">simplifiée</span></h1>
                             <p>Fluance facilite la maintenance prévisionnelle pour les petites équipes et les industries en automatisant et centralisant le registre de maintenance sous un format flexibles</p>
                             <div class="hero-button mt-30">
-                                <a href="#" class="btn btn--white">Essayer l'outil</a>
+                                <a href="#" class="btn btn--white">Essayer</a>
                                 <div class="hero-popup-video video-popup">
                                     <a href="https://www.youtube.com/watch?v=vqZuSUtczbU" class="video-link">
                                         <div class="video-content">
