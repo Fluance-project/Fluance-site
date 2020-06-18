@@ -10,11 +10,11 @@
                         <div class="processing-hero-text wow move-up">
                             <h6>Fluance</h6>
                             <h1 class="font-weight--reguler mb-15">La maintenance en équipe <span class="text-color-secondary">simplifiée</span></h1>
-                            <p>Fluance facilite la maintenance prévisionnelle pour les petites équipes et les industries en automatisant et centralisant le registre de maintenance sous un format simple</p>
+                            <p>Fluance facilite la maintenance prévisionnelle pour les petites équipes et les industries en automatisant et centralisant le registre de maintenance en un format simple</p>
                             <div class="hero-button mt-30">
                                 <a href="#" class="btn btn--white">Essayer</a>
                                 <div class="hero-popup-video video-popup">
-                                    <a href="https://youtu.be/ClLhCNqz3A4" class="video-link">
+                                    <a href="https://youtu.be/AE1H_ztPEBw" class="video-link">
                                         <div class="video-content">
                                             <div class="video-play">
                                                 <span class="video-play-icon">
@@ -116,7 +116,7 @@
                             </div>
 
                             <div class="main-video-box video-popup">
-                                <a href="https://youtu.be/ClLhCNqz3A4" class="video-link  mt-30">
+                                <a href="https://youtu.be/AE1H_ztPEBw" class="video-link  mt-30">
                                     <div class="single-popup-wrap">
                                         <img class="img-fluid border-radus-5" src="<?php echo DOMAIN_THEME_IMG.'Group 129.png'?>" alt="">
                                         <div class="ht-popup-video video-button">
@@ -163,7 +163,7 @@
                         <!-- section-title-wrap Start -->
                         <div class="section-title-wrap text-center section-space--mb_10">
                             <h6 class="section-sub-title mb-20">Les fonctionnalités</h6>
-                            <h3 class="heading">Pour vos besoins très spécifiques, <br> nous avons une solution<span class="text-color-primary"> fléxible.</span></h3>
+                            <h3 class="heading">Pour vos besoins très spécifiques, <br> nous avons une solution<span class="text-color-primary"> flexible.</span></h3>
                         </div>
                         <!-- section-title-wrap Start -->
                     </div>
