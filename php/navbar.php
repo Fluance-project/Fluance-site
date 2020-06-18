@@ -36,7 +36,7 @@
                         <div class="header position-relative">
                             <!-- brand logo -->
                             <div class="header__logo">
-                                <a href="index.html">
+                                <a href="https://fluance.app/">
                                     <img src="<?php echo DOMAIN_THEME_IMG.'logo.png'?>" class="img-fluid" alt="">
                                 </a>
                             </div>
@@ -53,7 +53,7 @@
                                             </li>
                                           
                                             <li class="">
-                                                <a href="https://fluance.app/page/tarifs"><span>Tarifs</span></a>
+                                                <a href="https://fluance.app/tarifs"><span>Tarifs</span></a>
                                             </li>
                                             <li class="">
                                                 <a href="https://fluance.crisp.help/fr/"><span>FAQ</span></a>
