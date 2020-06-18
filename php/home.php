@@ -182,7 +182,7 @@
                                                 <img class="img-fulid" src="<?php echo DOMAIN_THEME_IMG.'cal.png'?>" alt="">
                                             </div>
                                             <div class="content">
-                                                <h6 class="heading">Plannification et prévision</h6>
+                                                <h6 class="heading">Planification et prévision</h6>
                                             </div>
                                         </div>
                                     </a>
