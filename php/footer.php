@@ -62,7 +62,7 @@
                                 </li>
                                 <li class="item">
                                     <a href="https://github.com/Fluance-project" target="_blank" aria-label="Github" class="social-link hint--bounce hint--top hint--primary">
-                                        <i class="fab fa-github-f link-icon"></i>
+                                        <i class="fab fa-git-f link-icon"></i>
                                     </a>
                                 </li>
                                 <li class="item">
