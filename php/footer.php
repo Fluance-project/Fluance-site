@@ -16,32 +16,23 @@
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">IT Services</h6>
+                            <h6 class="footer-widget__title mb-20">Solution</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Managed IT</a></li>
-                                <li><a href="#" class="hover-style-link">IT Support</a></li>
-                                <li><a href="#" class="hover-style-link">IT Consultancy</a></li>
-                                <li><a href="#" class="hover-style-link">Cloud Computing</a></li>
-                                <li><a href="#" class="hover-style-link">Cyber Security</a></li>
+                                <li><a href="#" class="hover-style-link">Comment ça fonctionne</a></li>
+                                <li><a href="#" class="hover-style-link">Tarifs</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">Quick links</h6>
+                            <h6 class="footer-widget__title mb-20">Aide et support</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Pick up locations</a></li>
-                                <li><a href="#" class="hover-style-link">Terms of Payment</a></li>
-                                <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
-                                <li><a href="#" class="hover-style-link">Where to Find Us</a></li>
+                                <li><a href="#" class="hover-style-link">FAQ</a></li>
+                                <li><a href="#" class="hover-style-link">Contacts</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
-                            <h6 class="footer-widget__title mb-20">Support</h6>
+                            <h6 class="footer-widget__title mb-20">Blog</h6>
                             <ul class="footer-widget__list">
-                                <li><a href="#" class="hover-style-link">Forum Support</a></li>
-                                <li><a href="#" class="hover-style-link">Help & FAQ</a></li>
-                                <li><a href="#" class="hover-style-link">Contact Us</a></li>
-                                <li><a href="#" class="hover-style-link">Pricing and plans</a></li>
-                                <li><a href="#" class="hover-style-link">Cookies Policy</a></li>
+                                <li><a href="#" class="hover-style-link">Derniers articles</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
