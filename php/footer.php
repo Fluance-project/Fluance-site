@@ -80,16 +80,6 @@
 
 
 
-
-
-        <!--====================  scroll top ====================-->
-        <a href="#" class="scroll-top" id="scroll-top">
-            <i class="arrow-top fal fa-long-arrow-up"></i>
-            <i class="arrow-bottom fal fa-long-arrow-up"></i>
-        </a>
-        <!--====================  End of scroll top  ====================-->
-
-
         <!--====================  mobile menu overlay ====================-->
         <div class="mobile-menu-overlay" id="mobile-menu-overlay">
             <div class="mobile-menu-overlay__inner">
