@@ -9,7 +9,7 @@
                                 <img src="<?php echo DOMAIN_THEME_IMG.'logo.png'?>" class="img-fluid" style="width: 50%" alt="">
                             </div>
                             <ul class="footer-widget__list">
-                                <li>6 rue du Général Pershing, 78000 Versailles</li>
+                                <li>GMAO intelligente pour les petites équipes de l'industrie</li>
                                 <li><a href="mailto:contact@aeroland.com" class="hover-style-link">contact@fluance.app</a></li>
                                 <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+33)642318395</a></li>
                                 <li><a href="https://hasthemes.com/" class="hover-style-link text-color-primary">www.fluance.app</a></li>
@@ -32,6 +32,7 @@
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
                             <h6 class="footer-widget__title mb-20">Blog</h6>
                             <ul class="footer-widget__list">
+                                <li><a href="#" class="hover-style-link">Cas d'usage</a></li>
                                 <li><a href="#" class="hover-style-link">Derniers articles</a></li>
                             </ul>
                         </div>
