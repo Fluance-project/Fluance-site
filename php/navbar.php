@@ -56,7 +56,7 @@
                                                 <a href="https://fluance.app/page/tarifs"><span>Tarifs</span></a>
                                             </li>
                                             <li class="">
-                                                <a href="https://fluance.app/page/aide"><span>FAQ</span></a>
+                                                <a href="https://fluance.crisp.help/fr/"><span>FAQ</span></a>
                                             </li>
                                             <li class="has-children has-children--multilevel-submenu">
                                                 <a href="https://fluance.app/page/aide"><span>Blog</span></a>
