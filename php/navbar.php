@@ -68,7 +68,7 @@
                                                     <li><a href="https://fluance.app/page/aide"><span>Roadmap</span></a></li>
                                                 </ul>
                                             </li>
-                                            <li class="" class="ht-btn ht-btn-md ht-btn--outline">
+                                            <li class="ht-btn ht-btn-md ht-btn--outline">
                                                 <a href="#"><span>Connexion</span></a>
                                                 
                                             </li>

@@ -53,7 +53,15 @@
 		// If the user is watching a particular page the variable takes the value "page"
 		// If the user is watching the frontpage the variable takes the value "home"
 		if ($WHERE_AM_I == 'page') {
-			include(THEME_DIR_PHP.'page.php');
+			if ($page->template()) {
+				include(THEME_DIR_PHP.$page->template().'.php');
+			} else {
+				if($page->isStatic()){
+					include(THEME_DIR_PHP.'article.php');
+				} else {
+					include(THEME_DIR_PHP.'page.php');
+				}
+			}
 		} else {
 			include(THEME_DIR_PHP.'home.php');
 		}
