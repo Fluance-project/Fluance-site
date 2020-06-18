@@ -14,7 +14,7 @@
                             <div class="hero-button mt-30">
                                 <a href="#" class="btn btn--white">Essayer</a>
                                 <div class="hero-popup-video video-popup">
-                                    <a href="https://www.youtube.com/watch?v=vqZuSUtczbU" class="video-link">
+                                    <a href="https://youtu.be/ClLhCNqz3A4" class="video-link">
                                         <div class="video-content">
                                             <div class="video-play">
                                                 <span class="video-play-icon">
@@ -116,7 +116,7 @@
                             </div>
 
                             <div class="main-video-box video-popup">
-                                <a href="https://www.youtube.com/watch?v=9No-FiEInLA" class="video-link  mt-30">
+                                <a href="https://youtu.be/ClLhCNqz3A4" class="video-link  mt-30">
                                     <div class="single-popup-wrap">
                                         <img class="img-fluid border-radus-5" src="<?php echo DOMAIN_THEME_IMG.'Group 129.png'?>" alt="">
                                         <div class="ht-popup-video video-button">
