@@ -41,7 +41,7 @@
         <!--============ Infotechno Hero End ============-->
         <!--====================  Accordion area ====================-->
         <div class="accordion-wrapper section-space--ptb_100">
-            <div class="container-fluid">
+            <div class="container-fluid" id="solution">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
                         <div class="faq-wrapper faq-custom-col">
