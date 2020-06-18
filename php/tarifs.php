@@ -109,7 +109,7 @@
                 <div class="row align-items-center">
                     <div class="col-xl-8 col-lg-7">
                         <div class="cta-content md-text-center">
-                            <h3 class="heading text-white">Augmentez le potentiels et l'éfficacité <span class="text-color-secondary">de vos équipes</span></h3>
+                            <h3 class="heading text-white">Augmentez le potentiel et l'éfficacité <span class="text-color-secondary">de vos équipes</span></h3>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-5">
