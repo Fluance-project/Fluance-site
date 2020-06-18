@@ -12,7 +12,7 @@
                                 <li>GMAO intelligente pour les petites équipes de l'industrie</li>
                                 <li><a href="mailto:contact@aeroland.com" class="hover-style-link">contact@fluance.app</a></li>
                                 <li><a href="tel:123344556" class="hover-style-link text-black font-weight--bold">(+33)642318395</a></li>
-                                <li><a href="https://hasthemes.com/" class="hover-style-link text-color-primary">www.fluance.app</a></li>
+                                <li><a href="https://fluance.app/" class="hover-style-link text-color-primary">www.fluance.app</a></li>
                             </ul>
                         </div>
                         <div class="col-lg-2 col-md-4 col-sm-6 footer-widget">
