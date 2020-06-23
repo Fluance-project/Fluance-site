@@ -498,7 +498,7 @@
                         <div class="col-lg-12">
                             <div class="feature-list-button-box mt-40 text-center">
                                 <a href="#" class="ht-btn ht-btn-md">Voir nos cas d'usage</a>
-                                <a href="#" class="ht-btn ht-btn-md ht-btn--outline">Nous contacter</a>
+                                <a href="https://fluance.app/contact" class="ht-btn ht-btn-md ht-btn--outline">Nous contacter</a>
                             </div>
                         </div>
 
@@ -755,7 +755,7 @@
                                 <h6 class="heading font-weight--reguler">Lun/Ven - 9h/18h</h6>
                                 <h2 class="call-us"><a href="tel:190068668" class="text-color-secondary">(+33)6 42 31 83 95</a></h2>
                                 <div class="contact-us-button mt-20">
-                                    <a href="#" class="btn btn--secondary">Contactez-nous</a>
+                                    <a href="https://fluance.app/contact" class="btn btn--secondary">Contactez-nous</a>
                                 </div>
                             </div>
                         </div>

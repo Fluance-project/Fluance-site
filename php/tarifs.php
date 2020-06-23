@@ -33,14 +33,15 @@
                                 </div>
                                 <div class="pricing-table__body">
                                     <ul class="pricing-table__list">
-                                        <li>1 utilisateurs</li>
+                                        <li>les 30 premiers jours</li>
+                                        <li>puis 9€ par utilisateur</li>
                                         <li>3 machines</li>
                                         <li>5 tâches / machines par mois</li>
                                         <li><span class="featured">Module temps réel sur devis</span></li>
                                     </ul>
                                 </div>
                                 <div class="pricing-table__footer">
-                                    <a href="#" class="ht-btn ht-btn-default btn--secondary">Commencer</a>
+                                    <a href="https://fluance.app/contact" class="ht-btn ht-btn-default btn--secondary">Commencer</a>
                                 </div>
                             </div>
                         </div>
@@ -52,22 +53,22 @@
                                 <div class="pricing-table__header">
                                     <h5 class="pricing-table__title">Industrie</h5>
                                     <div class="pricing-table__price-wrap">
-                                        <h6 class="price">29</h6>
+                                        <h6 class="price">34</h6>
                                         <h6 class="period">/mois</h6>
                                         <h6 class="currency">€</h6>
                                     </div>
                                 </div>
                                 <div class="pricing-table__body">
                                     <ul class="pricing-table__list">
-                                        <li>5 utilisateurs </li>
-                                        <li>Machines illimités </li>
+                                        <li>par utilisateur </li>
+                                        <li>15 machines </li>
                                         <li>Tâches illimités </li>
                                         <li>Service client 7/7j</li>
                                         <li><span class="featured">Module prédictif sur devis</span></li>
                                     </ul>
                                 </div>
                                 <div class="pricing-table__footer">
-                                    <a href="#" class="ht-btn ht-btn-default btn--secondary">Contactez-nous</a>
+                                    <a href="https://fluance.app/contact" class="ht-btn ht-btn-default btn--secondary">Contactez-nous</a>
                                 </div>
                             </div>
                         </div>
@@ -76,22 +77,22 @@
                                 <div class="pricing-table__header">
                                     <h5 class="pricing-table__title">Grand industriel</h5>
                                     <div class="pricing-table__price-wrap">
-                                        <h6 class="price">85</h6>
+                                        <h6 class="price">89</h6>
                                         <h6 class="period">/mois</h6>
                                         <h6 class="currency">€</h6>
                                     </div>
                                 </div>
                                 <div class="pricing-table__body">
                                     <ul class="pricing-table__list">
+                                        <li>par utilisateur</li>
                                         <li>Tout illimité</li>
-
                                         <li>Service client 7/7j</li>
                                         <li>Partage et API ouverte</li>
                                         <li><span class="featured">Module prédictif inclus</span></li>
                                     </ul>
                                 </div>
                                 <div class="pricing-table__footer">
-                                    <a href="#" class="ht-btn ht-btn-default btn--secondary">Contactez-nous</a>
+                                    <a href="https://fluance.app/contact" class="ht-btn ht-btn-default btn--secondary">Contactez-nous</a>
                                 </div>
                             </div>
                         </div>
