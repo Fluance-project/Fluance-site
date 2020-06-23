@@ -2,7 +2,7 @@
 
     <div class="site-wrapper-reveal">
         
-
+<div class="container">
 
             <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
         <script>
@@ -11,7 +11,7 @@
             formId: "40191737-653e-4964-b65f-395f229bb7f9"
         });
         </script>
-
+</div>
 
         <!--========== Call to Action Area Start ============-->
         <div class="cta-image-area_one section-space--ptb_80 processing-hero-bg">

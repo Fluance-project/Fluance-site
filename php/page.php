@@ -36,9 +36,9 @@
 
 <div class="site-wrapper-reveal">
         
-
+<div class="container">
 <?php echo $page->content(); ?>
-
+</div>
 		<!--========== Call to Action Area Start ============-->
 		<div class="cta-image-area_one section-space--ptb_80 processing-hero-bg">
 				<div class="container">
